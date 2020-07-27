@@ -1,0 +1,32 @@
+{
+	"name": "Modest",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#263238",
+		"editor.foreground": "#eeffff",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#546E7A"
+			}
+		},
+		// {
+		// 	"name": "Invalid",
+		// 	"scope": [
+		// 		"invalid",
+		// 		"invalid.illegal"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#FF5370"
+		// 	}
+		// }
+	]
+}

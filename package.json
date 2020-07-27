@@ -1,0 +1,31 @@
+{
+  "name": "modest",
+  "displayName": "Modest",
+  "description": "An absolutely minimal vscode colour scheme, highlights only code comments and that is all",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modest-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Raphx/modest-vscode/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/Raphx/modest-vscode/issues",
+    "email": "ralcx@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raphx/modest-vscode.git"
+  }
+}
