@@ -2,7 +2,7 @@
 	"name": "Modest",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -15,7 +15,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#546E7A"
+				"foreground": "#7f7f7f"
 			}
 		},
 		// {
