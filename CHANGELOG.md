@@ -6,6 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.0] - 2020-12-17
+### Added
+- "Modest Light" theme
+
+### Changed
+- "Modest" theme is now renamed to "Modest Dark"
+- Use back editor's default colours for UI in "Modest Dark"
+
 ## [0.0.2] - 2020-07-28
 ### Changed
 - Amend background and comment colour

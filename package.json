@@ -3,7 +3,7 @@
   "publisher": "raphx-3269",
   "displayName": "Modest",
   "description": "An absolutely minimal vscode colour scheme, highlights only code comments and that is all",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.47.0"
   },
