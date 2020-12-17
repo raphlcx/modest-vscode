@@ -1,0 +1,17 @@
+{
+	"name": "Modest Light",
+	"type": "light",
+	"colors": {},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#b1b1b1"
+			}
+		}
+	]
+}

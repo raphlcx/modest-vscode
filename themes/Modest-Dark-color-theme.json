@@ -1,0 +1,19 @@
+{
+	"name": "Modest Dark",
+	"type": "dark",
+	"colors": {
+		"editor.foreground": "#eeffff"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#7f7f7f"
+			}
+		}
+	]
+}

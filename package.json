@@ -13,9 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Modest",
+        "label": "Modest Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Modest-color-theme.json"
+        "path": "./themes/Modest-Dark-color-theme.json"
+      },
+      {
+        "label": "Modest Light",
+        "uiTheme": "vs",
+        "path": "./themes/Modest-Light-color-theme.json"
       }
     ]
   },
