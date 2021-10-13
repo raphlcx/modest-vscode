@@ -25,13 +25,13 @@
     ]
   },
   "license": "MIT",
-  "homepage": "https://github.com/Raphx/modest-vscode/blob/master/README.md",
+  "homepage": "https://github.com/raphlcx/modest-vscode/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/Raphx/modest-vscode/issues",
+    "url": "https://github.com/raphlcx/modest-vscode/issues",
     "email": "ralcx@outlook.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Raphx/modest-vscode.git"
+    "url": "https://github.com/raphlcx/modest-vscode.git"
   }
 }
