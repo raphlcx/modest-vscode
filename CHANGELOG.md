@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.1] - 2021-10-13
+### Changed
+- Update links to GitHub repository
+- Update vsce publisher
+
 ## [0.1.0] - 2020-12-17
 ### Added
 - "Modest Light" theme
